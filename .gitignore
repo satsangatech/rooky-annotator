@@ -1,0 +1,8 @@
+/target
+/dist
+/public
+/shady-minions
+/**/public
+/**/target
+/**/dist
+/**/*.css
