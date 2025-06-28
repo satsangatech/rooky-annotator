@@ -1,4 +1,4 @@
-Rooky Annotator is a modern, open-source platform designed to help users learn and master chess, whether you're a complete beginner or an advanced player. Featuring interactive lessons, practice tools, and advanced analysis, Rooky Bunker provides a comprehensive and engaging environment for improving your chess skills at any level. ♟️
+Rooky Annotator is an open-source, interactive platform built to elevate your chess skills—whether you’re just learning the pieces or mastering advanced strategies. With dedicated modes for rookies and experts, it offers a smooth path from fundamentals to fluent gameplay. ♟️
 ---
 
 ## 🚀 Features
