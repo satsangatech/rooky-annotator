@@ -3,9 +3,17 @@ Rooky Annotator is an open-source, interactive platform built to elevate your ch
 
 ## 🚀 Features
 
-✅ **Decentralized & Secure:** Powered by Rust, Yew, and Nostr for speed, security, and resilience.  
+✅ **Decentralized & Secure:** Powered by Rust, Yew, and Nostr for speed, security, and resilience.
 ✅ **Interactive UI:** Styled with TailwindCSS for a sleek and modern interface.
-✅ **Efficient Testing:** Ensured reliability with Rust’s built-in testing framework.  
+✅ **Efficient Testing:** Ensured reliability with Rust’s built-in testing framework.
+
+### 🧠 App Pages
+
+The main page of the app includes two interactive tabs: **Rookie** and **Expert**.
+
+- **Rookie Tab:** Presents a card displaying all the chess pieces. When a user selects a piece, a chessboard appears with that specific piece placed on it. The user can then click the piece to make valid moves, helping beginners understand how each piece operates.
+
+- **Expert Tab:** Offers a keyboard interface for users to annotate chess moves directly, catering to experienced players who want to log and plan sequences.
 
 ---
 
