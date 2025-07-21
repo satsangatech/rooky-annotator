@@ -1,4 +1,4 @@
-Rooky Annotator is an open-source, interactive platform built to elevate your chess skills—whether you’re just learning the pieces or mastering advanced strategies. With dedicated modes for rookies and experts, it offers a smooth path from fundamentals to fluent gameplay. ♟️
+NostrChess Annotator is an open-source, interactive platform built to elevate your chess skills—whether you’re just learning the pieces or mastering advanced strategies. With dedicated modes for rookies and experts, it offers a smooth path from fundamentals to fluent gameplay. ♟️
 ---
 
 ## 🚀 Features
@@ -19,7 +19,7 @@ The main page of the app includes two interactive tabs: **Rookie** and **Expert*
 
 ## 🛠 Tech Stack
 
-Rookye Annotator is built using the latest web technologies to ensure performance and scalability:
+NostrChess Annotator is built using the latest web technologies to ensure performance and scalability:
 
 - **🦀 Rust** - High-performance, memory-safe programming language [(Download Rust)](https://www.rust-lang.org/learn/get-started)
 - **🌿 Yew** - Rust-based framework for building interactive web apps [(Yew Docs)](https://yew.rs/docs/)
@@ -31,7 +31,7 @@ Rookye Annotator is built using the latest web technologies to ensure performanc
 
 ## 🏗 Project Architecture
 
-Rooky follows a modular frontend architecture within each app directory. The main source code resides in the `src/` folder, which is organized as follows:
+NostrChess follows a modular frontend architecture within each app directory. The main source code resides in the `src/` folder, which is organized as follows:
 
 - `src/` – Main application source code.
 - `components/` – Reusable UI components (buttons, forms, widgets, etc.).
@@ -48,7 +48,7 @@ There is no centralized backend. All communication occurs via **Nostr** relays, 
 
 ---
 
-## 🌐 How Rooky Uses Nostr
+## 🌐 How NostrChess Uses Nostr
 
 Fuente leverages **Nostr** as its primary communication protocol for a trustless and decentralized experience. 
 
@@ -64,7 +64,7 @@ Fuente leverages **Nostr** as its primary communication protocol for a trustless
 - No centralized database is used. Instead, **IndexedDB** is leveraged for local storage.
 - Users retain control over their data, which can be synchronized across devices via Nostr relays.
 
-Using **Nostr** ensures Rooky remains **censorship-resistant**, **fault-tolerant**, and **decentralized**, making it an ideal solution for borderless commerce.
+Using **Nostr** ensures NostrChess remains **censorship-resistant**, **fault-tolerant**, and **decentralized**, making it an ideal solution for borderless commerce.
 
 ---
 
